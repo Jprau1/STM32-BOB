@@ -1,0 +1,19 @@
+STM32F070CBTx:			https://www.st.com/content/ccc/resource/technical/document/datasheet/31/4f/10/5f/a5/32/46/42/DM00141386.pdf/files/DM00141386.pdf/jcr:content/translations/en.DM00141386.pdf
+LD1117S33TR: 			https://www.digikey.com/en/products/detail/stmicroelectronics/LD1117S33TR/585766?utm_adgroup=Integrated%20Circuits&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search&utm_term=&utm_content=Integrated%20Circuits&gclid=CjwKCAiAgJWABhArEiwAmNVTB3hh-Zj2kWjnfTJp70v_a7r9E0flKbG80DlI2kU7gUmTdSDfSD0iHBoC4yMQAvD_BwE
+(LVR)
+AO3401: 			http://www.aosmd.com/pdfs/datasheet/AO3401.pdf
+(PMOS)
+NX3225GA-16.000M-STD-CRG-1:	https://www.digikey.com/en/products/detail/ndk-america-inc/NX3225GA-16-000M-STD-CRG-1/2261470?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAbACxUgC6Avg4QExkgByAGgMwssBWAOIBBGGAoA6AAyyAsjADKAFQAiMAMIAlIePoMgA
+(Crystal)
+TFZVTR11B:			https://www.digikey.com/en/products/detail/rohm-semiconductor/TFZVTR11B/5955651
+(Zener Diode)
+0475900001: 			https://www.digikey.com/en/products/detail/molex/0475900001/1832256
+(USB MICRO)
+USBLC6-2SC6:			https://www.digikey.com/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559
+(5.25 TVS Diode)
+B5819W-TP:			https://www.digikey.com/en/products/detail/micro-commercial-co/B5819W-TP/3774959
+(Schottky Diode)
+TL3305AF260QG:			https://www.digikey.com/en/products/detail/e-switch/TL3305AF260QG/5816198
+(Switch)
+0393570002:			https://www.digikey.com/en/products/detail/molex/0393570002/946543
+(Screw Terminal)
